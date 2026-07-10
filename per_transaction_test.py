@@ -1,7 +1,7 @@
 import time
 import random
 import sys
-from main import SocialNetwork
+from Main import SocialNetwork
 
 class PerTransactionTester:
     def __init__(self):
